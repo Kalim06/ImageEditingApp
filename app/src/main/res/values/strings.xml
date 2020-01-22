@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Image Editing App</string>
+    <string name="select_image">Select Image</string>
+    <string name="selected_image">Selected Image</string>
+    <string name="select_an_image_to_edit">Select an image to edit!!!</string>
+    <string name="save_image">Save Image</string>
+    <string name="share_image">Share Image</string>
+    <string name="add_logo">Add Logo</string>
+    <string name="add_text">Add Text</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_text">Enter Text</string>
+</resources>
